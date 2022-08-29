@@ -3,7 +3,7 @@ This project showcases the Friends of the Abington Community Library (Northeaste
 
 **Link to project:** https://aclfriends.netlify.app/
 
-![open book](/images/.jpeg)
+![open book](/images/bookCoverPic.jpg)
 
 ## How It's Made:
 
