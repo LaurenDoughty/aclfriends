@@ -20,6 +20,8 @@ Take a look at these examples in my portfolio:
 
 **Abington Farmers' Market:** https://abington-farmers-market.netlify.app/index.html
 
+# Template Credits
+
 Directive by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
