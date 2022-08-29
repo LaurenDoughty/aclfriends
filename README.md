@@ -1,3 +1,25 @@
+# Abington Farmers' Market
+This project showcases the Friends of the Abington Community Library (Northeastern Pennsylvania) near Scranton, PA.
+
+**Link to project:** https://aclfriends.netlify.app/
+
+![open book](/images/.jpeg)
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+I made this site for the local friends of the library volunteer group to advertise to the surrounding area.
+
+## Lessons Learned:
+
+I learned about responsive design from this project.
+
+## Examples:
+Take a look at these examples in my portfolio:
+
+**Abington Farmers' Market:** https://abington-farmers-market.netlify.app/index.html
+
 Directive by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
